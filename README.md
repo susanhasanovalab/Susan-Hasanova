@@ -27,9 +27,9 @@ I am a highly motivated **Biotechnology** student at **Baku State University** (
 
 ---
 ##🎤 Presentations & Seminars
-***Featured Speaker @ Young Talents Lyceum:** Presented on “The Role of AI and Metagenomic Analysis in Predicting Future Pandemics for Global Protection”.
-***Guest Lecturer @ Baku State University:** Conducted a specialized seminar on the application of **TALENs** (Transcription Activator-Like Effector Nucleases) in modern genome editing.
-***Digital Biology Seminar:** Organized and led the inaugural seminar under the **NexaGen** initiative at the BSU SABAH center on April 28, 2026.
+* **Featured Speaker @ Young Talents Lyceum:** Presented on “The Role of AI and Metagenomic Analysis in Predicting Future Pandemics for Global Protection”.
+* **Guest Lecturer @ Baku State University:** Conducted a specialized seminar on the application of **TALENs** (Transcription Activator-Like Effector Nucleases) in modern genome editing.
+* **Digital Biology Seminar:** Organized and led the inaugural seminar under the **NexaGen** initiative at the BSU SABAH center on April 28, 2026.
 ---
 
 ## 🔬 Featured Research & Publications
