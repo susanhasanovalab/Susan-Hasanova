@@ -21,16 +21,25 @@ I am a highly motivated **Biotechnology** student at **Baku State University** (
 * **Metagenomics:** Advanced research in plant viruses and viroids using metagenomic technologies.
 
 ### 💻 Software Development & AI
-* **Programming:** Advanced **Python** (Biopython, Pandas, NumPy), **C#**, **SQL**, and **ASP.NET**.
-* **AI/ML:** Specialist in Generative AI, LLMs, and AI Product Development.
+* **Programming:** **Python** (Biopython, Pandas, NumPy), **C#**, **SQL**, and **ASP.NET**,**CSS**,**JavaScript**
+* **AI/ML:** Generative AI, LLMs, and AI Product Development.
 * **Data Science:** Statistical modeling, PCA, clustering, and biological data visualization.
 
+---
+🎤 Presentations & Seminars
+***Featured Speaker @ Young Talents Lyceum:** Presented on “The Role of AI and Metagenomic Analysis in Predicting Future Pandemics for Global Protection”.
+***Guest Lecturer @ Baku State University:** Conducted a specialized seminar on the application of **TALENs** (Transcription Activator-Like Effector Nucleases) in modern genome editing.
+***Digital Biology Seminar:** Organized and led the inaugural seminar under the **NexaGen** initiative at the BSU SABAH center on April 28, 2026.
 ---
 
 ## 🔬 Featured Research & Publications
 * **Oncology:** Application of TALENs combined with Nanotechnology for gene editing in cancer cells.
 * **Pandemic Prediction:** Presented "The Role of AI and Metagenomic Analysis in Predicting Future Pandemics".
 * **Environmental Biotech:** Determination of sulfate-reducing bacteria (SRB) in NCQI-ACB-2024.
+* **Agricultural Biotech:** Creation of Plants Resistant to Plant Viruses Using CRISPR/Cas9 Technology (ICEB-2024, Ege University)
+* **Metagenomics:** New opportunities in the study of plant viruses and viroids through metagenomic technologies (Ingush State University, 2023)
+* **Cancer Research:** The role of Gene Therapy in The Fight Against Cancer: New Achievements and Perspectives (Research Paper, 2023)
+* **Disaster Management:** The contribution of AI and emerging technologies to the prevention and impact reduction of seismic disasters (AMEA, 2005)
 
 ---
 
